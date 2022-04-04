@@ -1,0 +1,19 @@
+{
+  "name": "witeroo",
+  "version": "1.0.0",
+  "description": "Witeroo Inc. provides services in Industrial automation, Project management and Cloud computing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itolu/Witeroo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itolu/Witeroo/issues"
+  },
+  "homepage": "https://github.com/itolu/Witeroo#readme"
+}

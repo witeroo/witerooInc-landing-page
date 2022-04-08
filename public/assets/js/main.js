@@ -153,5 +153,7 @@
             },
             'json'
         );
+
+        $('p.form-message').removeClass('alert-success alert-warning');
     });
 }(jQuery));

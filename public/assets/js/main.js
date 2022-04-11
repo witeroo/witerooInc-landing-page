@@ -23,7 +23,7 @@
     /*----------------------------
     START - Smooth scroll animation
     ------------------------------ */
-    $('.mainmenu li a, .logo a,.slicknav_nav li a').on('click', function() {
+    $('.mainmenu li a, .logo a, .slicknav_nav li a, a[href="#contact"]').on('click', function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') &&
             location.hostname == this.hostname) {
             var $target = $(this.hash);

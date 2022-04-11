@@ -349,7 +349,7 @@ input::-webkit-input-placeholder {
     padding-top: 140px;
     z-index: 1;
     position: relative;
-    background-image: url("");
+    background-image: url("../img/hero-img.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
